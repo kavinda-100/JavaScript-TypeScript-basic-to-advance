@@ -1,4 +1,4 @@
-# js-practice
+# JavaScript TypeScript practice
 
 To install dependencies:
 
@@ -8,8 +8,14 @@ bun install
 
 To run:
 
+For run basic/advance decretory:
+
 ```bash
-bun run index.ts
+bun run dev
 ```
 
-This project was created using `bun init` in bun v1.1.18. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+For run basic/advance task decretory:
+
+```bash
+bun run task
+```
